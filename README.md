@@ -26,6 +26,8 @@ The Node Hotel application is a Node.js-based system developed using the Express
   - **Description:** Deletes the details of a specific person identified by their ID.
     
 
+
+
 ### Menu Items
 
 - **Add a Menu Item:**
