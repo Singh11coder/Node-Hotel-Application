@@ -24,6 +24,7 @@ The Node Hotel application is a Node.js-based system developed using the Express
 - **Delete a Person:**
   - **Endpoint:** `DELETE /person/:id`
   - **Description:** Deletes the details of a specific person identified by their ID.
+    
 
 ### Menu Items
 
