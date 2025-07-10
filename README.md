@@ -69,11 +69,11 @@ The `Person` data model represents information about staff members in the hotel.
 - **Example:**
 ```json
 {
-  "name": "John Doe",
-  "age": 30,
-  "work": "waiter",
+  "name": "Sukhminder Singh",
+  "age": 23,
+  "work": "Manager",
   "mobile": "123-456-7890",
-  "email": "john@example.com",
+  "email": "sukhmindersingh733@gmail.com",
   "address": "123 Main Street",
   "salary": 30000
 }
@@ -94,11 +94,11 @@ The `MenuItem` data model represents information about menu items available in t
 - **Example:**
 ```json
 {
-  "name": "Spicy Chicken Curry",
+  "name": "Spicy Veg Curry",
   "price": 12.99,
   "taste": "spicy",
   "is_drink": false,
-  "ingredients": ["chicken", "spices", "vegetables"],
+  "ingredients": ["Paneer", "spices", "vegetables"],
   "num_sales": 50
 }
 ```
